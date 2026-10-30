@@ -4,21 +4,7 @@ A Claude Code mod that shows your running Workflow as a live graph in a side pan
 
 一個 Claude Code mod：在聊天旁邊開一個面板，即時顯示正在跑的 Workflow——每個步驟的狀態、目前在用哪個工具、跑了多久。
 
-```
-my-workflow  wf_1234abcd-567
-running · 3/4 done · 1 running · 3m50s
-Pick
-╭──────────────────────╮
-│ pick                 │
-│ ✓ completed (cached) │
-╰──────────────────────╯
-        ↓
-Fix
-╭────────────────────────╮
-│ fix:A                  │
-│ ● running ▶ Bash 3m50s │
-╰────────────────────────╯
-```
+![workflow-graph pane](docs/screenshot.png)
 
 ## Install
 
