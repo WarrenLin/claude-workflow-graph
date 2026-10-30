@@ -1,0 +1,13 @@
+{
+  "name": "claude-workflow-graph",
+  "description": "A live graph of running Claude Code Workflows in a side pane",
+  "owner": {
+    "name": "WarrenLin"
+  },
+  "plugins": [
+    {
+      "name": "workflow-graph",
+      "source": "./"
+    }
+  ]
+}

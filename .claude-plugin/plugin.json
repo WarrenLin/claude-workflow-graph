@@ -1,0 +1,10 @@
+{
+  "name": "workflow-graph",
+  "version": "0.1.0",
+  "description": "側邊面板：顯示正在跑的 workflow 圖、每個 step 狀態與耗時",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "WarrenLin"
+  }
+}
